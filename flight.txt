@@ -1,2 +1,5 @@
 scenario3 : Login for Train Ticket Booking
 scenario4 : Enter personal details
+
+scenario5:checking available seats
+scenarion6:payment mode
