@@ -1,2 +1,5 @@
 scenario3 : Login for Train Ticket Booking
 scenario4 : Enter personal details
+
+scenario7 : signout from the train ticket app
+scenario8 : close the browser
