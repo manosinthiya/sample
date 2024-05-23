@@ -1,5 +1,10 @@
 scenario3 : Login for Train Ticket Booking
 scenario4 : Enter personal details
 
+<<<<<<< HEAD
 scenario5:checking available seats
 scenarion6:payment mode
+=======
+scenario7 : signout from the train ticket app
+scenario8 : close the browser
+>>>>>>> trainmodule
