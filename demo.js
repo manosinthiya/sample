@@ -30,5 +30,7 @@ while (i < strArray1.length) {
     i++;
 }
 
+//test
+
 console.log("The occurrence of each letter in given string is:", chars);
 
