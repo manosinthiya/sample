@@ -33,4 +33,6 @@ while (i < strArray1.length) {
 //test
 
 console.log("The occurrence of each letter in given string is:", chars);
+console.log("git demo done")
+console.log("git demo done")
 
