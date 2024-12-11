@@ -10,7 +10,9 @@
 //      console.log(ch); 
 //     return chars; 
 // }, []); 
-   
+
+
+//// hello
 // console.log("The occurrence of each letter in given string is:", result)
 
 
